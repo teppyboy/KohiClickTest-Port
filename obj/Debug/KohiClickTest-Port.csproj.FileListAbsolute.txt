@@ -1,0 +1,10 @@
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\bin\Debug\KohiClickTest-Port.exe.config
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\bin\Debug\KohiClickTest-Port.exe
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\bin\Debug\KohiClickTest-Port.pdb
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest-Port.csprojAssemblyReference.cache
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest_Port.Form1.resources
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest_Port.Properties.Resources.resources
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest-Port.csproj.GenerateResource.cache
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest-Port.csproj.CoreCompileInputs.cache
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest-Port.exe
+D:\KohiClickTest-Port\KohiClickTest-Port\KohiClickTest-Port\obj\Debug\KohiClickTest-Port.pdb
